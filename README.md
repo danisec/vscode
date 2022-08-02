@@ -50,7 +50,9 @@
 
 ## Font
 
-- [Poppins](https://github.com/danisec/vscode/tree/main/font)
+- [Fira Code](https://github.com/danisec/vscode/tree/main/font/fira-code)
+
+- [Poppins](https://github.com/danisec/vscode/tree/main/font/poppins)
 
 ## Settings
 
