@@ -54,7 +54,7 @@
 
 ## Settings
 
-Copy `settings.json`
+Copy and Paste `settings.json`
 
 ```
 C:\Users\name-pc\AppData\Roaming\Code\User
