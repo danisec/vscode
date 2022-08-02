@@ -1,0 +1,62 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "Fira code",
+  "editor.fontLigatures": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontFamily": "Fira Code",
+  "editor.cursorBlinking": "expand",
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false,
+    "python": true,
+    "javascript": false,
+    "css": false,
+    "html": false,
+    "php": true
+  },
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.fullReload": true,
+  "editor.linkedEditing": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*html": "html"
+  },
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "python.defaultInterpreterPath": "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "editor.fontSize": 16,
+  "workbench.colorTheme": "Cool theme - dark blue",
+  "editor.lineHeight": 38,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "workbench.list.smoothScrolling": true,
+  "editor.minimap.enabled": false,
+  "json.schemas": [
+  
+    {
+      "fileMatch": ["/myfile"],
+      "url": "schemaURL"
+    }
+  ],
+  "editor.wordWrap": "on",
+  "settingsSync.ignoredExtensions": [],
+  "settingsSync.ignoredSettings": [],
+  "git.enableSmartCommit": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.menuBarVisibility": "compact",
+  "editor.guides.bracketPairs": "active"
+}

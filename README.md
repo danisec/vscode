@@ -47,3 +47,15 @@ The extension I use in vscode
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss).
 
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree).
+
+## Font
+
+- [Poppins](https://github.com/danisec/vscode/font)
+
+## Settings
+
+Copy `settings.json`
+
+```
+C:\Users\name-pc\AppData\Roaming\Code\User
+```
