@@ -1,6 +1,6 @@
 # Visual Studio Code
 
-The extension I use in vscode
+## The extension I use in vscode
 
 - [[Deprecated] Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2).
 
